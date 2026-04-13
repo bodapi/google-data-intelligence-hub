@@ -2,7 +2,7 @@
 All-in-one Google data scraping solutions. Automated extraction for Google SERP, Travel, Commerce, and Visual search intelligence.
 
 
-# 🌐 Google Data Intelligence Hub
+# 🌐 Google Data Api
 
 Enterprise-level API fusion for deep data acquisition across the Google ecosystem. We provide professional, high-fidelity data solutions for specialized search modules, travel intelligence, and market analysis.
 
