@@ -34,6 +34,7 @@ This module provides high-precision data extraction from Google’s primary sear
 For API access or custom data extraction requirements:
 * **Website:** [https://bodapi.com](https://bodapi.com)
 * **Telegram:** [@bodapi_dan]
+* **WeChat (微信):** daniellehallasgo
 * **Email:** support@bodapi.com
 
 ---
