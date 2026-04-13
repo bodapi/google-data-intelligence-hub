@@ -30,7 +30,7 @@ This module is designed to extract real-time television schedules, program categ
 For API access, custom media data solutions, or technical documentation:
 * **Official Website:** [https://bodapi.com](https://bodapi.com)
 * **WeChat (微信):** daniellehallasgo
-* **Telegram:** [@bodapi_dan]
+* **Telegram:** @bodapi_dan
 * **Email:** support@bodapi.com
 
 ---
