@@ -24,7 +24,7 @@ This module is specifically engineered for high-volume extraction of image data 
 ## 📞 Business Inquiry
 For API access or large-scale visual data requirements:
 * **Official Website:** [https://bodapi.com](https://bodapi.com)
-* **Telegram:** [@bodapi_dan]
+* **Telegram:** @bodapi_dan
 * **WeChat (微信):** daniellehallasgo
 * **Email:** support@bodapi.com
 
