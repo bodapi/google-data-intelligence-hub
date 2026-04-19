@@ -31,7 +31,7 @@ For API access, custom travel data solutions, or technical documentation:
 * **Official Website:** [https://bodapi.com](https://bodapi.com)
 * **WeChat (微信):** daniellehallasgo
 * **Telegram:** @bodapi_dan
-* **Email:** support@bodapi.com
+* **Email:** danielle@bodapi.com
 
 ---
 *Maintained by Bodapi - 2026 Data Intelligence Team*
