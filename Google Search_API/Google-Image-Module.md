@@ -26,7 +26,7 @@ For API access or large-scale visual data requirements:
 * **Official Website:** [https://bodapi.com](https://bodapi.com)
 * **Telegram:** @bodapi_dan
 * **WeChat (微信):** daniellehallasgo
-* **Email:** support@bodapi.com
+* **Email:** danielle@bodapi.com
 
 ---
 *Maintained by Bodapi - 2026 Data Intelligence Team*
